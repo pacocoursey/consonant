@@ -1,0 +1,21 @@
+{
+  "name": "consonant",
+  "version": "0.0.1",
+  "description": "tiny library for working with consonants",
+  "main": "index.js",
+  "repository": "pacocoursey/consonant",
+  "author": "Paco Coursey <paco@pacocoursey.com> (pacocoursey.com)",
+  "keywords": [
+    "english",
+    "alphabet",
+    "vowel",
+    "consonant",
+    "string"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
