@@ -1,4 +1,4 @@
-# Consonant
+# Consonant [![npm version](https://badge.fury.io/js/consonant.svg)](https://badge.fury.io/js/consonant)
 
 Tiny library for working with consonants.
 
