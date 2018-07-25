@@ -33,6 +33,32 @@ endsWithConsonant('persiflage');
 //=> false
 ```
 
+## API
+
+### .consonants
+
+Returns an `array` with a list of consonants.
+
+### .y(`boolean`)
+
+If whether `y` should be included as a consonant.
+
+### .isConsonant(`string`)
+
+If string is a single character, returns whether the string is a consonant. If string is longer than a single character, calls `.includesConsonant`.
+
+### .includesConsonant(`string`)
+
+Returns whether the string includes consonants.
+
+### .startsWithConsonant(`string`)
+
+Returns whether the string starts with a consonant.
+
+### .endsWithConsonant(`string`)
+
+Returns whether the string ends with a consonant.
+
 #
 
 <p align="center">
